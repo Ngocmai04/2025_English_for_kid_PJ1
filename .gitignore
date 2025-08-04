@@ -1,7 +1,18 @@
 *.iml
+<<<<<<< HEAD
 .gradle/
 /local.properties
 /.idea
+=======
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+>>>>>>> c858e6c (initialize project)
 .DS_Store
 /build
 /captures
